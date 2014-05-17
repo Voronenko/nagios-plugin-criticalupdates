@@ -44,7 +44,7 @@ On remote host:
 
 1.  Install npre server
 
-sudo apt-get install nagios-npre-server
+sudo apt-get install nagios-nrpe-server
 
 sudo gedit /etc/nagios/nrpe.cfg
 
